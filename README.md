@@ -21,6 +21,7 @@
 
 <p>Em resumo, o projeto da Pokedex em Next.js é uma aplicação web funcional e elegante que oferece aos usuários uma forma intuitiva de acessar informações sobre os Pokemons, além de ser uma excelente demonstração das possibilidades oferecidas pelo framework de desenvolvimento Next.js.</p>
 
+<h1 align='center'>Tecnologias utilizadas</h1>
 <ul>
   <li>React</li>
   <li>Next</li>
